@@ -158,13 +158,6 @@ After applying the Terraform configuration, you can use the following outputs:
 To remove all resources created by this configuration, run:
 
 ```
-
 terraform destroy
-
 ```
-
 Confirm by typing `yes` when prompted.
-
-```
-
-```
